@@ -1,5 +1,4 @@
 Résumé du Projet - Application de Participation Citoyenne et Vote Électronique
-Version courte (5 lignes)
 Plateforme web démocratique permettant aux citoyens de participer activement aux décisions locales,
 signaler des problèmes urbains géolocalisés et voter électroniquement sur des initiatives communautaires. 
 La solution utilise la blockchain Ethereum pour garantir la transparence, 
