@@ -1,4 +1,6 @@
 <img src="javadata.jpg" style="height:464px;margin-right:432px"/>
+  Nom : Mahboub   
+  Prenom : Ayman
 Résumé du Projet - Application de Participation Citoyenne et Vote Électronique
 Plateforme web démocratique permettant aux citoyens de participer activement aux décisions locales,
 signaler des problèmes urbains géolocalisés et voter électroniquement sur des initiatives communautaires. 
